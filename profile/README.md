@@ -1,12 +1,2 @@
-## We are DAEON group / team 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## About Us
+We are Daeon, a group of four developers, who will set your company apart by bringing innovation and cutting-edge technology. Our strength lies in our multidisciplinary expertise: we combine skills in cybersecurity, user experience, full-stack development, robust infrastructure, and technical leadership. Together, we offer tailor-made development solutions that are secure, efficient and user-centered, reflecting the essence of our unique mission and collaboration.
